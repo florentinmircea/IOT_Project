@@ -1,6 +1,3 @@
 # IOT_Project
-<object data="https://github.com/florentinmircea/IOT_Project/blob/master/Documentation.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/florentinmircea/IOT_Project/blob/master/Documentation.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/florentinmircea/IOT_Project/blob/master/Documentation.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+The goal of this project is to have the ability to learn as many remotes from different devices and the ability to control the devices with Arduino. In final form the goal is that a raspberry pi sends a command via Serial communication to Arduino and it transmits the desired infrared command.
+<p>Documentation of the project can be downloaded from here<a href="https://github.com/florentinmircea/IOT_Project/blob/master/Documentation.pdf">Download Documentation</a>.</p>
